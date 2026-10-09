@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Ivan
 
-<!--
-**renevivn/renevivn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Backend Developer based in Berlin.
+Before switching to software development, I spent 8 years as a legal counsel
+and worked on business process automation projects: gathering requirements,
+writing specifications and testing.
 
-Here are some ideas to get you started:
+**Stack:** Python · Django · Django REST Framework · Flask · PostgreSQL · SQLAlchemy · asyncio · Docker · Nginx · GitHub Actions · pytest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- **[Foodgram](https://github.com/renevivn/foodgram)** — recipe-sharing REST API with Docker and CI/CD
+- **[YaCut](https://github.com/renevivn/async-yacut)** — URL shortener with async file uploads to Yandex Disk
+
+### Contact
+[LinkedIn](https://www.linkedin.com/in/renev-ivan) · [Telegram](https://t.me/renevivan) · renev.ivn@gmail.com
